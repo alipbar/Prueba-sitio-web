@@ -1,0 +1,31 @@
+/*Este es un comentario de css*/
+body{
+    background-color: #ede9d0;
+    font-family: poppins;
+    font-size: 16px;
+}
+
+/*Para llamar a una clase se debe colocar un .*/
+.gato1{
+    width: 200px;
+    border-radius: 8px;
+}
+
+.gato2{
+    width: 200px;
+    border-radius: 8px;
+}
+
+.gato3{
+    width: 400px;
+    border-radius: 8px;
+}
+
+.gatotres{
+    text-align: center;
+}
+
+.Caracteristicas{
+    background-color: #9f5434;
+    color: #ede9d0;
+}
